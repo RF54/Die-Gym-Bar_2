@@ -1,0 +1,74 @@
+
+
+#intro_section{
+  background-color: #ffab00;
+}
+#middle_section{
+
+}
+#final_section{
+  background-color: #d4ff00;
+}
+body{
+  text-align: center;
+}
+h1{
+  font-family: "Merriweather";
+  font-size: 2rem;
+  color: white;
+  font-weight: 900;
+}
+h2{
+  font-family: "Merriweather";
+  font-size: 1.5rem;
+}
+h3{
+    font-family: "Merriweather";
+  font-size: 1rem;
+}
+p{
+  font-family: "Cormorant";
+}
+/* first section */
+.gym_logo{
+  width: 70%;
+}
+.first_div{
+  padding: 7% 10%;
+  margin: 0 auto;
+}
+.bar_ikon{
+  font-family: "Merriweather";
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+
+
+
+/* middle section */
+.mid_div{
+  padding: 5% 10%;
+}
+.pindrop{
+  padding: 12px;
+}
+.img_icon{
+  width: 20%;
+  padding: 10px 0;
+}
+
+
+
+/* final section */
+.ikon{
+ padding: 10px 0 0;
+}
+.icon{
+  margin: 10px 30px;
+}
+.cp{
+  color: white;
+  font-size: 1rem;
+  margin: 10px auto 0;
+}
